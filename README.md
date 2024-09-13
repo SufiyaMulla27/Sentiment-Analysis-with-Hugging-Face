@@ -6,8 +6,8 @@ This project demonstrates a sentiment analysis application using Generative AI. 
 
 ## Features
 
-- **Sentiment Classification**: Classify text as positive, negative, or neutral.
-- **User-Friendly Interface**: Simple command-line interface for input and output.
+- **Sentiment Classification**: Classify text as positive or negative.
+- **User-Friendly Interface**: Simple User interface for input and output.
 - **Customizable Model**: Option to fine-tune or replace the pre-trained model for specific use cases.
 
 ## User Interface
